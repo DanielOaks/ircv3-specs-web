@@ -1,0 +1,162 @@
+html {
+	overflow: -moz-scrollbars-vertical;
+	overflow-y: scroll;
+}
+
+body {
+	background-color: #F2F2F2;
+}
+
+.navbar, .navbar-inverse .dropdown-menu {
+	background-color: #025;
+	border-color: #025;
+}
+
+.marketing-text {
+	text-align: center;
+}
+
+.alert-info, .btn-primary {
+	background-color: #025;
+	border-color: #028;
+}
+
+.alert-success, .btn-success {
+	background-color: #355;
+	border-color: #355;
+}
+
+.alert-warning, .btn-warning {
+	background-color: #435;
+	border-color: #435;
+}
+
+.github, .github:hover {
+	color: #435;
+}
+
+.projects, .projects:hover {
+	color: #355;
+}
+
+.blog, .blog:hover {
+	color: #025;
+}
+
+.alert > a, .noline, .noline:hover {
+	text-decoration: none;
+}
+
+.alert > a:hover {
+	color: #FFF;
+	text-decoration: underline;
+}
+
+.btn-warning:hover, .btn-warning:focus {
+	background-color: #759;
+	border-color: #759;
+}
+
+.btn-success:hover, .btn-success:focus {
+	background-color: #399;
+	border-color: #399;
+}
+
+.btn-primary:hover, .btn-primary:focus {
+	background-color: #039;
+	border-color: #039;
+}
+
+a, .page-header > h1 {
+	color: #025;
+}
+
+.lead {
+	color: #000;
+}
+
+a:hover, a:focus {
+	color: #039;
+}
+
+.navbar-nav a {
+	transition: background 0.05s ease-in;
+}
+
+.navbar-inverse .navbar-nav>li>a:hover,.navbar-inverse .navbar-nav>li>a:focus,.navbar-inverse .navbar-nav>li>a:active{
+	background-color: #039;
+}
+
+.navbar .dropdown-menu > li > a, .dropdown-toggle:hover, .dropdown-toggle:active {
+	background-color: #025;
+}
+
+.navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus, .navbar .dropdown-menu > li > a:hover, .navbar .dropdown-menu > .active > a, .navbar .dropdown-menu > .active > a:hover, .navbar .navbar-nav > .open > a:hover, .navbar .navbar-nav > .open > a:focus, .navbar .navbar-nav > .open > a:active, .navbar-inverse .navbar-nav > .open > a  {
+	background-color: #039;
+}
+
+.row {
+	padding: 0px 0px 0px 0px;
+}
+
+.frontpage .btn-primary {
+	margin-top: 1rem;
+	transition: background 0.05s ease-in;
+	border-radius: 3px
+}
+
+.flexy-list {
+    max-width: 90rem;
+    font-size: 2.2rem;
+    text-align: center;
+    margin: 0 auto 0.6rem;
+}
+.participant {
+    display: inline-block;
+    padding: 0.5rem;
+}
+
+.spec-link {
+    font-size: 3rem;
+    display: block;
+    padding: 1rem 1.5rem;
+    text-align: center
+}
+.spec-light-go {
+    color: #cfc;
+}
+.spec-go {
+    color: #4b4;
+}
+.spec-light-holdup {
+    color: #fec;
+}
+.spec-holdup {
+    color: #da4;
+}
+
+/* sticky footer */
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  margin: 1rem 0 0;
+  height: 3.9rem;
+  font-size: 1.3rem;
+}
+footer .container {
+	border-top: 1px solid #ddd;
+}
+footer p {
+	margin: 1rem 0 0;
+	padding: 0;
+}
