@@ -15,7 +15,7 @@
         <li><a href="http://atheme.net/"><span class="fa fw-fw fa-external-link-square"></span> Atheme.net</a></li>
       </ul> -->
       <ul class="nav navbar-nav">
-        <li{% if current[1] == 'index.html' %} class="active"{% endif %}><a href="/index.html"><span class="fa fa-fw fa-home"></span> Home</a></li>
+        <li{% if current[1] == 'index.html' %} class="active"{% endif %}><a href="{{ site.baseurl }}/index.html"><span class="fa fa-fw fa-home"></span> Home</a></li>
         <li class="dropdown">
           <li{% if current[1] == 'charter.html' %} class="active"{% endif %}><a href="{{ site.baseurl }}/charter.html"><span class="fa fa-fw fa-book"></span> Charter</a></li>
           <li><a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="fa fa-fw fa-folder-open"></span> Specs <b class="caret"></b></a>
