@@ -8,8 +8,8 @@ body {
 }
 
 .navbar, .navbar-inverse .dropdown-menu {
-	background-color: #025;
-	border-color: #025;
+	background-color: #145960;
+	border-color: #145960;
 }
 
 .marketing-text {
@@ -17,8 +17,8 @@ body {
 }
 
 .alert-info, .btn-primary {
-	background-color: #025;
-	border-color: #028;
+	background-color: #145960;
+	border-color: #0C4248;
 }
 
 .alert-success, .btn-success {
@@ -40,7 +40,7 @@ body {
 }
 
 .blog, .blog:hover {
-	color: #025;
+	color: #145960;
 }
 
 .alert > a, .noline, .noline:hover {
@@ -63,12 +63,12 @@ body {
 }
 
 .btn-primary:hover, .btn-primary:focus {
-	background-color: #039;
-	border-color: #039;
+	background-color: #337F87;
+	border-color: #337F87;
 }
 
 a, .page-header > h1 {
-	color: #025;
+	color: #145960;
 }
 
 .lead {
@@ -76,7 +76,7 @@ a, .page-header > h1 {
 }
 
 a:hover, a:focus {
-	color: #039;
+	color: #337F87;
 }
 
 .navbar-nav a {
@@ -84,15 +84,15 @@ a:hover, a:focus {
 }
 
 .navbar-inverse .navbar-nav>li>a:hover,.navbar-inverse .navbar-nav>li>a:focus,.navbar-inverse .navbar-nav>li>a:active{
-	background-color: #039;
+	background-color: #337F87;
 }
 
 .navbar .dropdown-menu > li > a, .dropdown-toggle:hover, .dropdown-toggle:active {
-	background-color: #025;
+	background-color: #145960;
 }
 
 .navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus, .navbar .dropdown-menu > li > a:hover, .navbar .dropdown-menu > .active > a, .navbar .dropdown-menu > .active > a:hover, .navbar .navbar-nav > .open > a:hover, .navbar .navbar-nav > .open > a:focus, .navbar .navbar-nav > .open > a:active, .navbar-inverse .navbar-nav > .open > a  {
-	background-color: #039;
+	background-color: #337F87;
 }
 
 .row {

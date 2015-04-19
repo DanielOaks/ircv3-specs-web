@@ -16,4 +16,4 @@ To participate, contribute to our specifications and extensions registry on [Git
 
 <br/>
 
-You may also contact us on [irc.atheme.org in #ircv3](irc://irc.atheme.org/ircv3)
+You may also contact us on [irc.freenode.net in #ircv3](irc://irc.freenode.net/ircv3)

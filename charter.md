@@ -33,13 +33,11 @@ software relating to IRC to participate in the public resources.
    be submitted using a pull request.  We request that pull requests not be submitted to social
    media aggregators, as we have no mechanism to moderate the bug tracker efficiently.
 
-Atheme provides the following resources to the group.
-
- * The [#ircv3](irc://irc.atheme.org/ircv3) channel at [irc.atheme.org](irc://irc.atheme.org).  This is the main public space for the working group.
+ * The [#ircv3](irc://irc.freenode.net/ircv3) channel at [irc.freenode.net](irc://irc.freenode.net/ircv3).  This is the main public space for the working group.
    You are required to follow specific rules to participate in this IRC channel, else you may be
    removed at any time.
 
- * The [#ircv3-dev](irc://irc.atheme.org/ircv3-dev) channel at [irc.atheme.org](irc://irc.atheme.org).  This is a read-only channel, where the only
+ * The [#ircv3-dev](irc://irc.freenode.net/ircv3-dev) channel at [irc.freenode.net](irc://irc.freenode.net/ircv3-dev).  This is a read-only channel, where the only
    participants allowed to write to it are active stakeholders as described above.  The same rules
    apply to `#ircv3-dev` that apply to `#ircv3`.
 

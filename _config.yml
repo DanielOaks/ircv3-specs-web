@@ -1,4 +1,4 @@
 name: IRCv3 Organisation
 markdown: redcarpet
-pygments: true
+highlighter: pygments
 baseurl: http://danieloaks.net/ircv3-specs-web

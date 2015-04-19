@@ -17,7 +17,7 @@ This is the current released version of the IRC protocol.
 ### IRCv3.2
 The IRCv3 Organisation also maintains a registry of "work-in-progress" extensions that have not yet been accepted as part of an IRC protocol version. IRC software vendors may provide additional extensions that have not yet been added to this registry. We recommend that extensions not in the registry use appropriate namespacing as described in the capability negotiation specification and in the message tags specification.
 
-To submit an extension to the extension registry, please contact us via IRC for now (`irc.atheme.org #ircv3`). Extension specifications should be submitted in Markdown format.
+To submit an extension to the extension registry, please [contact us]({{ site.baseurl }}/contact.html) via IRC for now (`irc.freenode.net #ircv3`). Extension specifications should be submitted in Markdown format.
 
 This is an unreleased version of the IRC protocol.
 
